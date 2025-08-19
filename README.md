@@ -8,9 +8,12 @@ me share it once it's done.
 
 
 # Update
+Man this is tough, but somehow I managed to change the graphics, kinda broken but works for me at least
+<img width="832" height="518" alt="image" src="https://github.com/user-attachments/assets/399594cd-fe9b-4ddd-9fcb-6d070c64bccc" />
 
+
+# update archive
 I'm new to this type of thing but somehow some translations work now after a few pounding
-<img width="1127" height="637" alt="image" src="https://github.com/user-attachments/assets/c576778f-11c6-4524-8b02-5bd882df0459" />
 
 
 Done:
