@@ -1,20 +1,24 @@
-# English Patch - Fairy Tail Portable Guild
 
-Me like this game,
-Me not Japanese,
-Me no find English patch,
-Me patch it,
-me share it once it's done.
+## English Patch - Fairy Tail Portable Guild
+Me like this game, Me not Japanese, Me no find English patch, Me patch it, me share it once it's done.
+## Special thanks to these goats
+
+- [Bunkai9448](https://github.com/Bunkai9448/digipet_PSP) | Rom hacking reference
+- [@Alehmann04](https://github.com/Alehmann04/Fairy-Tail-Portible-Guild-English-Translation/tree/main) | File Structure / partial Translations
+- [@Aerow](https://github.com/Aerow/Fairy-Tail-Translation) | FTPG partial Translations
+
+## Latest Update
+
+## Done
+
+Completly translated
+- [x]  items
 
 
-# Update
-Man this is tough, but somehow I managed to change the graphics, kinda broken but works for me at least
-<img width="832" height="518" alt="image" src="https://github.com/user-attachments/assets/399594cd-fe9b-4ddd-9fcb-6d070c64bccc" />
+Partially translated
+	
 
+## License
 
-# update archive
-I'm new to this type of thing but somehow some translations work now after a few pounding
+[MIT](https://choosealicense.com/licenses/mit/)
 
-
-Done:
-- Item.bin
