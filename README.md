@@ -15,6 +15,7 @@ Somehow menu translation works, I'm focusing on bin files for now (somehow some 
 
 Completly translated
 - [x]  items
+- [x]  Skills 
 
 
 Partially translated
