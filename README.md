@@ -16,11 +16,14 @@ Okay so I kinda get the structure and way to translate the game
 Somehow menu translation works, I'm focusing on bin files for now (somehow some menu text are images...crazy for me)
 <img width="1087" height="599" alt="image" src="https://github.com/user-attachments/assets/cf7dfbaa-498a-43fb-837e-705a811e1fb5" />
 
-## Done
+## Translation Status
 
 Completly translated
-- [x]  items
-- [x]  Skills 
+- [] Guild Hall - Partially Translated
+- [] Shops
+- []  items
+- []  Skills
+- ....
 
 
 Partially translated
