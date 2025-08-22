@@ -1,0 +1,1 @@
+xdelta -d -v -s original.iso translation_patch.xdelta Fairy_Tail_Portable_Guild_English_Patch.iso
