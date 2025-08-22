@@ -17,7 +17,7 @@ Me like this game, Me not Japanese, Me no find English patch, Me patch it, me sh
 ##### 2. Download translation_patch.xdelta [Download](https://drive.google.com/file/d/1YnEjKe7gE1iIwbljY2N0WQtFs3UqEqeT/view?usp=drive_link) and put it inside ``patcher`` folder
 ##### 3. Download and Extract Xdelta Pather [Download](https://www.romhacking.net/utilities/598/)
 ##### 4. Put everything on ``patcher`` folder, it should look like this:
-      <img width="266" height="192" alt="image" src="https://github.com/user-attachments/assets/9b0646d8-fc14-432e-87e8-d4b8e4d136e5" />
+<img width="266" height="192" alt="image" src="https://github.com/user-attachments/assets/9b0646d8-fc14-432e-87e8-d4b8e4d136e5" />
 
 ##### 5. Double click ``Patch_game.bat`` and wait for the patching to finish, it should output ``Fairy_Tail_Portable_Guild_English_Patch.iso`` file. 
 ##### 6. Finally, Enjoy :>
