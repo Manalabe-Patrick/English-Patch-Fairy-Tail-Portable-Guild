@@ -1,37 +1,43 @@
 
-## English Patch - Fairy Tail Portable Guild
+## Fan Translated - Fairy Tail Portable Guild 1 (PSP)
 Me like this game, Me not Japanese, Me no find English patch, Me patch it, me share it once it's done.
+
 ## Special thanks to these goats
 
-- [Bunkai9448](https://github.com/Bunkai9448/digipet_PSP) | Rom hacking reference
+- [@Bunkai9448](https://github.com/Bunkai9448/digipet_PSP) | Rom hacking reference
 - [@Alehmann04](https://github.com/Alehmann04/Fairy-Tail-Portible-Guild-English-Translation/tree/main) | File Structure / partial Translations
 - [@Aerow](https://github.com/Aerow/Fairy-Tail-Translation) | FTPG partial Translations
 
+[Translation_Tracker/Sheet](https://docs.google.com/spreadsheets/d/1FXcCxzBZw8nvbREcJ81ynq8srmmED0Ov1jzsT_zuEoY/edit?usp=sharing)
 
-## [Translation Tracker/Sheet]([https://github.com/Aerow/Fairy-Tail-Translation](https://docs.google.com/spreadsheets/d/1FXcCxzBZw8nvbREcJ81ynq8srmmED0Ov1jzsT_zuEoY/edit?usp=sharing])
+## How to Patch
+##### Dump and Backup your ISO first please.... 
+...
+##### 1. Download Patcher
+##### 2. Download translation_patch.xdelta [Download](https://drive.google.com/file/d/1YnEjKe7gE1iIwbljY2N0WQtFs3UqEqeT/view?usp=drive_link) and put it inside ``patcher`` folder
+##### 3. Download and Extract Xdelta Pather [Download](https://www.romhacking.net/utilities/598/)
+##### 4. Put everything on ``patcher`` folder, it should look like this:
 
-## Latest Update
-Okay so I kinda get the structure and way to translate the game
-- Menus / Popup : Decrypted Eboot.bin
-- Texture Menu Text:  FATPACKMH -> HUD's .fac archieve
-- Items / Dialogs Text: FatPack -> Tables -> Table.fac
+##### 5. Double click ``Patch_game.bat`` and wait for the patching to finish, it should output ``Fairy_Tail_Portable_Guild_English_Patch.iso`` file. 
+##### 6. Finally, Enjoy :>
 
-Somehow menu translation works, I'm focusing on bin files for now (somehow some menu text are images...crazy for me)
-<img width="1087" height="599" alt="image" src="https://github.com/user-attachments/assets/cf7dfbaa-498a-43fb-837e-705a811e1fb5" />
+## Screenshots
 
-## Translation Status
 
-Completly translated
-
-[] Shops
-[]  items
-[]  Skills
-[] Guild Hall - Partially Translated
-....
 
 
 Partially translated
-	
+
+## What's Next
+For those who wants to help on fan translating the game, kindly message me on discord  at ``panta1111``... dont't be shy, and thanks!
+
+## Links
+- FTPG 1 XDELTA Patch: https://drive.google.com/file/d/1YnEjKe7gE1iIwbljY2N0WQtFs3UqEqeT/view?usp=drive_link
+- Xdelta Patcher: https://www.romhacking.net/utilities/598/
+- Bunkai9448 : https://github.com/Bunkai9448/digipet_PSP) 
+- Alehmann04 : https://github.com/Alehmann04/Fairy-Tail-Portible-Guild-English-Translation/tree/main)
+- Aerow: https://github.com/Aerow/Fairy-Tail-Translation 
+- Translation Sheet/Tracker: https://docs.google.com/spreadsheets/d/1FXcCxzBZw8nvbREcJ81ynq8srmmED0Ov1jzsT_zuEoY/edit?usp=sharing
 
 ## License
 
