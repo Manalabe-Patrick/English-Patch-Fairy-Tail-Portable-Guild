@@ -19,7 +19,7 @@ Me like this game, Me not Japanese, Me no find English patch, Me patch it, me sh
 ##### 4. Put everything on ``patcher`` folder, it should look like this:
 <img width="266" height="192" alt="image" src="https://github.com/user-attachments/assets/9b0646d8-fc14-432e-87e8-d4b8e4d136e5" />
 
-##### 5. Double click ``Patch_game.bat`` and wait for the patching to finish, it should output ``Fairy_Tail_Portable_Guild_English_Patch.iso`` file. 
+##### 5. Run XDeltaUI or Double click ``Patch_game.bat`` and wait for the patching to finish, it should output ``Fairy_Tail_Portable_Guild_English_Patch.iso`` file. 
 ##### 6. Finally, Enjoy :>
 
 ## Screenshot
