@@ -19,11 +19,12 @@ Somehow menu translation works, I'm focusing on bin files for now (somehow some 
 ## Translation Status
 
 Completly translated
-- [] Guild Hall - Partially Translated
-- [] Shops
-- []  items
-- []  Skills
-- ....
+
+[] Shops
+[]  items
+[]  Skills
+[] Guild Hall - Partially Translated
+....
 
 
 Partially translated
