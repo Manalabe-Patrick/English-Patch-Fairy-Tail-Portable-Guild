@@ -7,6 +7,9 @@ Me like this game, Me not Japanese, Me no find English patch, Me patch it, me sh
 - [@Alehmann04](https://github.com/Alehmann04/Fairy-Tail-Portible-Guild-English-Translation/tree/main) | File Structure / partial Translations
 - [@Aerow](https://github.com/Aerow/Fairy-Tail-Translation) | FTPG partial Translations
 
+
+## [Translation Tracker/Sheet]([https://github.com/Aerow/Fairy-Tail-Translation](https://docs.google.com/spreadsheets/d/1FXcCxzBZw8nvbREcJ81ynq8srmmED0Ov1jzsT_zuEoY/edit?usp=sharing])
+
 ## Latest Update
 Okay so I kinda get the structure and way to translate the game
 - Menus / Popup : Decrypted Eboot.bin
